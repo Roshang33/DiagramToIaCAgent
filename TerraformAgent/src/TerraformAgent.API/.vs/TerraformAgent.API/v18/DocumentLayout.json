@@ -1,0 +1,929 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C06B3C9-76E9-4A9D-8AB2-23AC065AD920}|..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.infrastructure\\vision\\diagramanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC112C-1C03-42BD-8243-AF226AAFF1B1}|..\\TerraFormAgent.Worker\\TerraFormAgent.Worker.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.worker\\steps\\retrievecontextstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC112C-1C03-42BD-8243-AF226AAFF1B1}|..\\TerraFormAgent.Worker\\TerraFormAgent.Worker.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.worker\\steps\\parsediagramstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C06B3C9-76E9-4A9D-8AB2-23AC065AD920}|..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.infrastructure\\rag\\ragservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C06B3C9-76E9-4A9D-8AB2-23AC065AD920}|..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.infrastructure\\sourcecontrol\\sourceloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C06B3C9-76E9-4A9D-8AB2-23AC065AD920}|..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.infrastructure\\codegenerator\\terraformgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C06B3C9-76E9-4A9D-8AB2-23AC065AD920}|..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.infrastructure\\ai\\prompttemplates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C06B3C9-76E9-4A9D-8AB2-23AC065AD920}|..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.infrastructure\\ai\\kernelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C06B3C9-76E9-4A9D-8AB2-23AC065AD920}|..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.infrastructure\\rag\\vectorsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C06B3C9-76E9-4A9D-8AB2-23AC065AD920}|..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.infrastructure\\dependencyinjection\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC112C-1C03-42BD-8243-AF226AAFF1B1}|..\\TerraFormAgent.Worker\\TerraFormAgent.Worker.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.worker\\steps\\packageartifactsstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\interfaces\\isourceloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC112C-1C03-42BD-8243-AF226AAFF1B1}|..\\TerraFormAgent.Worker\\TerraFormAgent.Worker.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.worker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\interfaces\\idiagramanalyzer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC112C-1C03-42BD-8243-AF226AAFF1B1}|..\\TerraFormAgent.Worker\\TerraFormAgent.Worker.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.worker\\workflowengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC112C-1C03-42BD-8243-AF226AAFF1B1}|..\\TerraFormAgent.Worker\\TerraFormAgent.Worker.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.worker\\steps\\iworkflowstep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\constants\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\models\\agentjobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\models\\agentjob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC112C-1C03-42BD-8243-AF226AAFF1B1}|..\\TerraFormAgent.Worker\\TerraFormAgent.Worker.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.worker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AC112C-1C03-42BD-8243-AF226AAFF1B1}|..\\TerraFormAgent.Worker\\TerraFormAgent.Worker.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.worker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\interfaces\\iworkflowengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D227FB0-94BD-4CFF-ABFE-85E0BA46E442}|..\\TerraformAgent.Persistence\\TerraformAgent.Persistence.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.persistence\\dependencyinjection\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D227FB0-94BD-4CFF-ABFE-85E0BA46E442}|..\\TerraformAgent.Persistence\\TerraformAgent.Persistence.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.persistence\\storage\\tablestoragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D227FB0-94BD-4CFF-ABFE-85E0BA46E442}|..\\TerraformAgent.Persistence\\TerraformAgent.Persistence.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.persistence\\repositories\\jobrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D227FB0-94BD-4CFF-ABFE-85E0BA46E442}|..\\TerraformAgent.Persistence\\TerraformAgent.Persistence.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.persistence\\entities\\workflowstateentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D227FB0-94BD-4CFF-ABFE-85E0BA46E442}|..\\TerraformAgent.Persistence\\TerraformAgent.Persistence.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.persistence\\entities\\jobentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D227FB0-94BD-4CFF-ABFE-85E0BA46E442}|..\\TerraformAgent.Persistence\\TerraformAgent.Persistence.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.persistence\\terraformagent.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\services\\terraformagentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\interfaces\\iterraformgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\models\\workflowstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\models\\terraformresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.api\\models\\generateterraformrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|solutionrelative:models\\generateterraformrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE716DE-AC18-4BAE-ACB7-8102D65AF5D0}|..\\TerraformAgent.Contracts\\TerraformAgent.Contracts.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.contracts\\requests\\terraformrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.api\\services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|solutionrelative:services\\filestorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C06B3C9-76E9-4A9D-8AB2-23AC065AD920}|..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.infrastructure\\terraformagent.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C175608E-F628-422B-81ED-0A79C2088E34}|..\\TerraformAgent.Core\\TerraformAgent.Core.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.core\\terraformagent.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE716DE-AC18-4BAE-ACB7-8102D65AF5D0}|..\\TerraformAgent.Contracts\\TerraformAgent.Contracts.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.contracts\\events\\terraformjobcreatedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.api\\controllers\\terraformjobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|solutionrelative:controllers\\terraformjobscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.api\\services\\jobqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|solutionrelative:services\\jobqueueservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|solutionrelative:extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA7975-363C-4584-A47A-107715641DFB}|..\\TerraformAgent.Shared\\TerraformAgent.Shared.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.shared\\results\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA7975-363C-4584-A47A-107715641DFB}|..\\TerraformAgent.Shared\\TerraformAgent.Shared.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.shared\\constants\\headernames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E567DEAB-AC81-4B21-B8FD-DD163EC46462}|..\\TerraformAgent.Tests\\TerraformAgent.Tests.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.tests\\api\\terraformjobscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E567DEAB-AC81-4B21-B8FD-DD163EC46462}|..\\TerraformAgent.Tests\\TerraformAgent.Tests.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.tests\\persistence\\jobrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E567DEAB-AC81-4B21-B8FD-DD163EC46462}|..\\TerraformAgent.Tests\\TerraformAgent.Tests.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.tests\\infrastructure\\ragservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E567DEAB-AC81-4B21-B8FD-DD163EC46462}|..\\TerraformAgent.Tests\\TerraformAgent.Tests.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.tests\\core\\terraformagentservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E567DEAB-AC81-4B21-B8FD-DD163EC46462}|..\\TerraformAgent.Tests\\TerraformAgent.Tests.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.tests\\testfixtures\\testdatafactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E567DEAB-AC81-4B21-B8FD-DD163EC46462}|..\\TerraformAgent.Tests\\TerraformAgent.Tests.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.tests\\terraformagent.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA7975-363C-4584-A47A-107715641DFB}|..\\TerraformAgent.Shared\\TerraformAgent.Shared.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.shared\\extensions\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA7975-363C-4584-A47A-107715641DFB}|..\\TerraformAgent.Shared\\TerraformAgent.Shared.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.shared\\utilities\\tokenestimator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA7975-363C-4584-A47A-107715641DFB}|..\\TerraformAgent.Shared\\TerraformAgent.Shared.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.shared\\utilities\\retryhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA7975-363C-4584-A47A-107715641DFB}|..\\TerraformAgent.Shared\\TerraformAgent.Shared.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.shared\\correlation\\correlationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFA7975-363C-4584-A47A-107715641DFB}|..\\TerraformAgent.Shared\\TerraformAgent.Shared.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.shared\\results\\resulterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE716DE-AC18-4BAE-ACB7-8102D65AF5D0}|..\\TerraformAgent.Contracts\\TerraformAgent.Contracts.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.contracts\\responses\\terraformresultresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE716DE-AC18-4BAE-ACB7-8102D65AF5D0}|..\\TerraformAgent.Contracts\\TerraformAgent.Contracts.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.contracts\\responses\\jobstatusresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE716DE-AC18-4BAE-ACB7-8102D65AF5D0}|..\\TerraformAgent.Contracts\\TerraformAgent.Contracts.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.contracts\\responses\\jobacceptedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AE716DE-AC18-4BAE-ACB7-8102D65AF5D0}|..\\TerraformAgent.Contracts\\TerraformAgent.Contracts.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.contracts\\terraformagent.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|c:\\users\\roshan\\source\\repos\\terraformagent\\src\\terraformagent.api\\.github\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3076E6A0-2F29-4E09-8004-91E954FECAA0}|TerraformAgent.API.csproj|solutionrelative:.github\\copilot-instructions.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PackageArtifactsStep.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Steps\\PackageArtifactsStep.cs",
+              "RelativeDocumentMoniker": "..\\TerraFormAgent.Worker\\Steps\\PackageArtifactsStep.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Steps\\PackageArtifactsStep.cs",
+              "RelativeToolTip": "..\\TerraFormAgent.Worker\\Steps\\PackageArtifactsStep.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.242Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "copilot-instructions.md",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\.github\\copilot-instructions.md",
+              "RelativeDocumentMoniker": ".github\\copilot-instructions.md",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\.github\\copilot-instructions.md",
+              "RelativeToolTip": ".github\\copilot-instructions.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-04-08T20:16:04.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RetrieveContextStep.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Steps\\RetrieveContextStep.cs",
+              "RelativeDocumentMoniker": "..\\TerraFormAgent.Worker\\Steps\\RetrieveContextStep.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Steps\\RetrieveContextStep.cs",
+              "RelativeToolTip": "..\\TerraFormAgent.Worker\\Steps\\RetrieveContextStep.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAC4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T20:40:52.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ParseDiagramStep.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Steps\\ParseDiagramStep.cs",
+              "RelativeDocumentMoniker": "..\\TerraFormAgent.Worker\\Steps\\ParseDiagramStep.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Steps\\ParseDiagramStep.cs",
+              "RelativeToolTip": "..\\TerraFormAgent.Worker\\Steps\\ParseDiagramStep.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiagramAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\Vision\\DiagramAnalyzer.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Infrastructure\\Vision\\DiagramAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\Vision\\DiagramAnalyzer.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Infrastructure\\Vision\\DiagramAnalyzer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RagService.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\RAG\\RagService.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Infrastructure\\RAG\\RagService.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\RAG\\RagService.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Infrastructure\\RAG\\RagService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SourceLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\SourceControl\\SourceLoader.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Infrastructure\\SourceControl\\SourceLoader.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\SourceControl\\SourceLoader.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Infrastructure\\SourceControl\\SourceLoader.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TerraformGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\CodeGenerator\\TerraformGenerator.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Infrastructure\\CodeGenerator\\TerraformGenerator.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\CodeGenerator\\TerraformGenerator.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Infrastructure\\CodeGenerator\\TerraformGenerator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PromptTemplates.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\AI\\PromptTemplates.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Infrastructure\\AI\\PromptTemplates.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\AI\\PromptTemplates.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Infrastructure\\AI\\PromptTemplates.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KernelFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\AI\\KernelFactory.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Infrastructure\\AI\\KernelFactory.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\AI\\KernelFactory.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Infrastructure\\AI\\KernelFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "VectorSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\RAG\\VectorSearchService.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Infrastructure\\RAG\\VectorSearchService.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\RAG\\VectorSearchService.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Infrastructure\\RAG\\VectorSearchService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InfrastructureServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Infrastructure\\DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Infrastructure\\DependencyInjection\\InfrastructureServiceRegistration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ISourceLoader.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Interfaces\\ISourceLoader.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\Interfaces\\ISourceLoader.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Interfaces\\ISourceLoader.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\Interfaces\\ISourceLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T21:14:35.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TerraFormAgent.Worker\\Program.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Program.cs",
+              "RelativeToolTip": "..\\TerraFormAgent.Worker\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IDiagramAnalyzer.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Interfaces\\IDiagramAnalyzer.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\Interfaces\\IDiagramAnalyzer.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Interfaces\\IDiagramAnalyzer.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\Interfaces\\IDiagramAnalyzer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WorkflowEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\WorkflowEngine.cs",
+              "RelativeDocumentMoniker": "..\\TerraFormAgent.Worker\\WorkflowEngine.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\WorkflowEngine.cs",
+              "RelativeToolTip": "..\\TerraFormAgent.Worker\\WorkflowEngine.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAAC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T19:31:50.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IWorkflowStep.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Steps\\IWorkflowStep.cs",
+              "RelativeDocumentMoniker": "..\\TerraFormAgent.Worker\\Steps\\IWorkflowStep.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Steps\\IWorkflowStep.cs",
+              "RelativeToolTip": "..\\TerraFormAgent.Worker\\Steps\\IWorkflowStep.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AgentJob.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Models\\AgentJob.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\Models\\AgentJob.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Models\\AgentJob.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\Models\\AgentJob.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JobStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Constants\\JobStatus.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\Constants\\JobStatus.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Constants\\JobStatus.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\Constants\\JobStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AgentJobStatus.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Models\\AgentJobStatus.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\Models\\AgentJobStatus.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Models\\AgentJobStatus.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\Models\\AgentJobStatus.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T20:47:11.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Worker.cs",
+              "RelativeDocumentMoniker": "..\\TerraFormAgent.Worker\\Worker.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\Worker.cs",
+              "RelativeToolTip": "..\\TerraFormAgent.Worker\\Worker.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\TerraFormAgent.Worker\\appsettings.json",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraFormAgent.Worker\\appsettings.json",
+              "RelativeToolTip": "..\\TerraFormAgent.Worker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-30T21:29:56.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IWorkflowEngine.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Interfaces\\IWorkflowEngine.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\Interfaces\\IWorkflowEngine.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Interfaces\\IWorkflowEngine.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\Interfaces\\IWorkflowEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TerraformAgent.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\TerraformAgent.Persistence.csproj",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Persistence\\TerraformAgent.Persistence.csproj",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\TerraformAgent.Persistence.csproj",
+              "RelativeToolTip": "..\\TerraformAgent.Persistence\\TerraformAgent.Persistence.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T21:45:39.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PersistenceServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\DependencyInjection\\PersistenceServiceRegistration.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Persistence\\DependencyInjection\\PersistenceServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\DependencyInjection\\PersistenceServiceRegistration.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Persistence\\DependencyInjection\\PersistenceServiceRegistration.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TableStorageFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\Storage\\TableStorageFactory.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Persistence\\Storage\\TableStorageFactory.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\Storage\\TableStorageFactory.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Persistence\\Storage\\TableStorageFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "JobRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\Repositories\\JobRepository.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Persistence\\Repositories\\JobRepository.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\Repositories\\JobRepository.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Persistence\\Repositories\\JobRepository.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JobEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\Entities\\JobEntity.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Persistence\\Entities\\JobEntity.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\Entities\\JobEntity.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Persistence\\Entities\\JobEntity.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WorkflowStateEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\Entities\\WorkflowStateEntity.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Persistence\\Entities\\WorkflowStateEntity.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Persistence\\Entities\\WorkflowStateEntity.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Persistence\\Entities\\WorkflowStateEntity.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TerraformAgentService.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Services\\TerraformAgentService.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\Services\\TerraformAgentService.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Services\\TerraformAgentService.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\Services\\TerraformAgentService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITerraformGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Interfaces\\ITerraformGenerator.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\Interfaces\\ITerraformGenerator.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Interfaces\\ITerraformGenerator.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\Interfaces\\ITerraformGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T21:14:13.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "WorkflowState.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Models\\WorkflowState.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\Models\\WorkflowState.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Models\\WorkflowState.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\Models\\WorkflowState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TerraformResult.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Models\\TerraformResult.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\Models\\TerraformResult.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\Models\\TerraformResult.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\Models\\TerraformResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "GenerateTerraformRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\Models\\GenerateTerraformRequest.cs",
+              "RelativeDocumentMoniker": "Models\\GenerateTerraformRequest.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\Models\\GenerateTerraformRequest.cs",
+              "RelativeToolTip": "Models\\GenerateTerraformRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TerraformRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\Requests\\TerraformRequest.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Contracts\\Requests\\TerraformRequest.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\Requests\\TerraformRequest.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Contracts\\Requests\\TerraformRequest.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:36.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FileStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\Services\\FileStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\FileStorageService.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\Services\\FileStorageService.cs",
+              "RelativeToolTip": "Services\\FileStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TerraformAgent.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj",
+              "RelativeToolTip": "..\\TerraformAgent.Infrastructure\\TerraformAgent.Infrastructure.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwB4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T19:52:36.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TerraformAgent.Core.csproj",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\TerraformAgent.Core.csproj",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Core\\TerraformAgent.Core.csproj",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Core\\TerraformAgent.Core.csproj",
+              "RelativeToolTip": "..\\TerraformAgent.Core\\TerraformAgent.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T19:52:36.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "TerraformJobCreatedEvent.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\Events\\TerraformJobCreatedEvent.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Contracts\\Events\\TerraformJobCreatedEvent.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\Events\\TerraformJobCreatedEvent.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Contracts\\Events\\TerraformJobCreatedEvent.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA8wA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TerraformJobsController.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\Controllers\\TerraformJobsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TerraformJobsController.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\Controllers\\TerraformJobsController.cs",
+              "RelativeToolTip": "Controllers\\TerraformJobsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAIBZwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "JobQueueService.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\Services\\JobQueueService.cs",
+              "RelativeDocumentMoniker": "Services\\JobQueueService.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\Services\\JobQueueService.cs",
+              "RelativeToolTip": "Services\\JobQueueService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-15T19:52:35.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "TerraformAgent.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\TerraformAgent.Tests.csproj",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Tests\\TerraformAgent.Tests.csproj",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\TerraformAgent.Tests.csproj",
+              "RelativeToolTip": "..\\TerraformAgent.Tests\\TerraformAgent.Tests.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T19:52:35.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Results\\Result.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Shared\\Results\\Result.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Results\\Result.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Shared\\Results\\Result.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HeaderNames.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Constants\\HeaderNames.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Shared\\Constants\\HeaderNames.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Constants\\HeaderNames.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Shared\\Constants\\HeaderNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "TerraformJobsControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\API\\TerraformJobsControllerTests.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Tests\\API\\TerraformJobsControllerTests.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\API\\TerraformJobsControllerTests.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Tests\\API\\TerraformJobsControllerTests.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "TestDataFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\TestFixtures\\TestDataFactory.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Tests\\TestFixtures\\TestDataFactory.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\TestFixtures\\TestDataFactory.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Tests\\TestFixtures\\TestDataFactory.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TerraformAgentServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\Core\\TerraformAgentServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Tests\\Core\\TerraformAgentServiceTests.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\Core\\TerraformAgentServiceTests.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Tests\\Core\\TerraformAgentServiceTests.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RagServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\Infrastructure\\RagServiceTests.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Tests\\Infrastructure\\RagServiceTests.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\Infrastructure\\RagServiceTests.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Tests\\Infrastructure\\RagServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "JobRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\Persistence\\JobRepositoryTests.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Tests\\Persistence\\JobRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Tests\\Persistence\\JobRepositoryTests.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Tests\\Persistence\\JobRepositoryTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Extensions\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Shared\\Extensions\\StringExtensions.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Extensions\\StringExtensions.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Shared\\Extensions\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "TokenEstimator.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Utilities\\TokenEstimator.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Shared\\Utilities\\TokenEstimator.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Utilities\\TokenEstimator.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Shared\\Utilities\\TokenEstimator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "RetryHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Utilities\\RetryHelper.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Shared\\Utilities\\RetryHelper.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Utilities\\RetryHelper.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Shared\\Utilities\\RetryHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CorrelationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Correlation\\CorrelationContext.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Shared\\Correlation\\CorrelationContext.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Correlation\\CorrelationContext.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Shared\\Correlation\\CorrelationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ResultError.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Results\\ResultError.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Shared\\Results\\ResultError.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Shared\\Results\\ResultError.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Shared\\Results\\ResultError.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "TerraformResultResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\Responses\\TerraformResultResponse.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Contracts\\Responses\\TerraformResultResponse.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\Responses\\TerraformResultResponse.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Contracts\\Responses\\TerraformResultResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "JobStatusResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\Responses\\JobStatusResponse.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Contracts\\Responses\\JobStatusResponse.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\Responses\\JobStatusResponse.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Contracts\\Responses\\JobStatusResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "JobAcceptedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\Responses\\JobAcceptedResponse.cs",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Contracts\\Responses\\JobAcceptedResponse.cs",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\Responses\\JobAcceptedResponse.cs",
+              "RelativeToolTip": "..\\TerraformAgent.Contracts\\Responses\\JobAcceptedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:52:35.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "TerraformAgent.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\TerraformAgent.Contracts.csproj",
+              "RelativeDocumentMoniker": "..\\TerraformAgent.Contracts\\TerraformAgent.Contracts.csproj",
+              "ToolTip": "C:\\Users\\Roshan\\source\\repos\\TerraformAgent\\src\\TerraformAgent.Contracts\\TerraformAgent.Contracts.csproj",
+              "RelativeToolTip": "..\\TerraformAgent.Contracts\\TerraformAgent.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-15T19:52:36.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

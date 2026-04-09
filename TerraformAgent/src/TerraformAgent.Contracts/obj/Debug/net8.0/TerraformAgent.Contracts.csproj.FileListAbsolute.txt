@@ -1,0 +1,11 @@
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\bin\Debug\net8.0\TerraformAgent.Contracts.deps.json
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\bin\Debug\net8.0\TerraformAgent.Contracts.dll
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\bin\Debug\net8.0\TerraformAgent.Contracts.pdb
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\obj\Debug\net8.0\TerraformAgent.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\obj\Debug\net8.0\TerraformAgent.Contracts.AssemblyInfoInputs.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\obj\Debug\net8.0\TerraformAgent.Contracts.AssemblyInfo.cs
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\obj\Debug\net8.0\TerraformAgent.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\obj\Debug\net8.0\TerraformAgent.Contracts.dll
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\obj\Debug\net8.0\refint\TerraformAgent.Contracts.dll
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\obj\Debug\net8.0\TerraformAgent.Contracts.pdb
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Contracts\obj\Debug\net8.0\ref\TerraformAgent.Contracts.dll

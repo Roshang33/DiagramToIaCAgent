@@ -1,0 +1,11 @@
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\bin\Debug\net8.0\TerraformAgent.Shared.deps.json
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\bin\Debug\net8.0\TerraformAgent.Shared.dll
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\bin\Debug\net8.0\TerraformAgent.Shared.pdb
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\obj\Debug\net8.0\TerraformAgent.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\obj\Debug\net8.0\TerraformAgent.Shared.AssemblyInfoInputs.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\obj\Debug\net8.0\TerraformAgent.Shared.AssemblyInfo.cs
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\obj\Debug\net8.0\TerraformAgent.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\obj\Debug\net8.0\TerraformAgent.Shared.dll
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\obj\Debug\net8.0\refint\TerraformAgent.Shared.dll
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\obj\Debug\net8.0\TerraformAgent.Shared.pdb
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Shared\obj\Debug\net8.0\ref\TerraformAgent.Shared.dll

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include=".github\copilot-instructions.md" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="10.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TerraformAgent.Core\TerraformAgent.Core.csproj" />
+    <ProjectReference Include="..\TerraformAgent.Persistence\TerraformAgent.Persistence.csproj" />
+    <ProjectReference Include="..\TerraformAgent.Contracts\TerraformAgent.Contracts.csproj" />
+    <ProjectReference Include="..\TerraformAgent.Shared\TerraformAgent.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

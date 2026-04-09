@@ -1,0 +1,8 @@
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.API\obj\Debug\net8.0\TerraformAgent.API.csproj.AssemblyReference.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.API\obj\Debug\net8.0\TerraformAgent.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.API\obj\Debug\net8.0\TerraformAgent.API.AssemblyInfoInputs.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.API\obj\Debug\net8.0\TerraformAgent.API.AssemblyInfo.cs
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.API\obj\Debug\net8.0\TerraformAgent.API.csproj.CoreCompileInputs.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.API\obj\Debug\net8.0\TerraformAgent.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.API\obj\Debug\net8.0\TerraformAgent.API.MvcApplicationPartsAssemblyInfo.cs

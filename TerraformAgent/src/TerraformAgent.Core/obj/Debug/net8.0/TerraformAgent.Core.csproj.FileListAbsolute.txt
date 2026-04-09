@@ -1,0 +1,11 @@
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\obj\Debug\net8.0\TerraformAgent.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\obj\Debug\net8.0\TerraformAgent.Core.AssemblyInfoInputs.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\obj\Debug\net8.0\TerraformAgent.Core.AssemblyInfo.cs
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\obj\Debug\net8.0\TerraformAgent.Core.csproj.CoreCompileInputs.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\bin\Debug\net8.0\TerraformAgent.Core.deps.json
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\bin\Debug\net8.0\TerraformAgent.Core.dll
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\bin\Debug\net8.0\TerraformAgent.Core.pdb
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\obj\Debug\net8.0\TerraformAgent.Core.dll
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\obj\Debug\net8.0\refint\TerraformAgent.Core.dll
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\obj\Debug\net8.0\TerraformAgent.Core.pdb
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Core\obj\Debug\net8.0\ref\TerraformAgent.Core.dll

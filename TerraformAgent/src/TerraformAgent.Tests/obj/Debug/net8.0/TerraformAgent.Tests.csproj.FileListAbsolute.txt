@@ -1,0 +1,5 @@
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Tests\obj\Debug\net8.0\TerraformAgent.Tests.csproj.AssemblyReference.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Tests\obj\Debug\net8.0\TerraformAgent.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Tests\obj\Debug\net8.0\TerraformAgent.Tests.AssemblyInfoInputs.cache
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Tests\obj\Debug\net8.0\TerraformAgent.Tests.AssemblyInfo.cs
+C:\Users\Roshan\source\repos\TerraformAgent\src\TerraformAgent.Tests\obj\Debug\net8.0\TerraformAgent.Tests.csproj.CoreCompileInputs.cache
