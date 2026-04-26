@@ -17,7 +17,8 @@ public class TerraformGenerator : ITerraformGenerator
 
     public async Task<TerraformResult> GenerateAsync(
         string userPrompt,
-        List<RagResult> ragContext)
+        List<RagResult> ragContext,
+        CancellationToken ct)
     {
         var contextBuilder = new StringBuilder();
 

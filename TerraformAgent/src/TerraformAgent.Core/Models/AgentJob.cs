@@ -19,5 +19,5 @@ public class AgentJob
     public string? TerraformOutput { get; set; }
     public int AttemptCount { get; set; }
     public string Intent { get; set; }
-    public object RagResults { get; set; }
+    public List<RagResult> RagResults { get; set; }
 }

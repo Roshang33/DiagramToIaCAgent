@@ -16,13 +16,11 @@ public sealed class RetrieveContextStep : IWorkflowStep
 
     public RetrieveContextStep(
         IRagService planner,
-        IVectorSearchService vectorSearch,
         ISourceLoader sourceLoader,
         ILogger<RetrieveContextStep> logger)
     {
         _planner = planner;
-        _vectorSearch = vectorSearch;
-        _sourceLoader = sourceLoader;
+        
         _logger = logger;
     }
 
@@ -33,12 +31,17 @@ public sealed class RetrieveContextStep : IWorkflowStep
         if (job.Intent is null)
             throw new InvalidOperationException("Intent is missing for retrieval step");
 
-        var queries = _planner.BuildQueries(job.Intent).ToList();
+        // Split comma-separated intent into a list of trimmed query strings
+        var queries = job.Intent
+            .Split(',', StringSplitOptions.RemoveEmptyEntries)
+            .Select(s => s.Trim())
+            .Where(s => s.Length > 0)
+            .ToList();
         var ragResults = new List<RagResult>();
 
         foreach (var q in queries)
         {
-            var hits = await _vectorSearch.SearchAsync(q, topK: 5, ct);
+            var hits = await _planner.SearchAsync(q);
             foreach (var hit in hits)
             {
                 // Keep metadata only; content is loaded later by PromptComposer as needed

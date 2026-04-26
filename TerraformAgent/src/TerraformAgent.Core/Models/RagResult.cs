@@ -11,4 +11,6 @@ public class RagResult
     public string Snippet { get; set; } = string.Empty;
 
     public double Score { get; set; }
+    public object Source { get; set; }
+    public object Version { get; set; }
 }

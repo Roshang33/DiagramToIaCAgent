@@ -4,7 +4,6 @@ namespace TerraformAgent.Core.Interfaces;
 
 public interface ITerraformGenerator
 {
-    Task<TerraformResult> GenerateAsync(
-        string userPrompt,
-        List<RagResult> ragContext);
+    Task<TerraformResult> GenerateAsync(string intent, List<RagResult> v, CancellationToken ct);
+  
 }
